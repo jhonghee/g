@@ -1,2 +1,5 @@
 github.com/jhonghee/f v0.0.0-20181213031533-11adf54bfb02 h1:o5PDW/T36yNxWjiRDFwPjHcxjkzqC423EDF7pYUKWr0=
 github.com/jhonghee/f v0.0.0-20181213031533-11adf54bfb02/go.mod h1:XpK/8fRlc4EbVzo3zRCJApeAYnktLCoXrjwb6gV8Qro=
+github.com/jhonghee/f v0.0.0-20181213032919-5162d6f9142b h1:le2Se+bJ2V96sa0eisFv5wZ7AkIVQlVcHfZype9xGhs=
+github.com/jhonghee/f v0.0.0-20181213032919-5162d6f9142b/go.mod h1:LHqQIwqwBrAzSc7jCYlHYU8ob5M13eXfmX2hRkDKhSM=
+github.com/jhonghee/g v0.0.0-20181213031446-e35e87656b43/go.mod h1:hIyeUv72hri5a08SKQoZfa9NaGRNs8UbGjrY3EJS31M=
